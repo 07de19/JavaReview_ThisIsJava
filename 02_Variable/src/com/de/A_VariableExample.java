@@ -12,6 +12,8 @@ public class A_VariableExample {
 		int result = value + 10;
 		
 		System.out.println(result);
+		
+		
 
 	}
 
